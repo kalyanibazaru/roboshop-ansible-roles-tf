@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.bkdevops.online # submit your host
+REDIS_HOST: redis.bkdevops.online
+MYSQL_HOST: mysql.bkdevops.online
+RABBITMQ_HOST: rabbitmq.bkdevops.online
+CATALOGUE_HOST: catalogue.bkdevops.online
+USER_HOST: user.bkdevops.online
+CART_HOST: cart.bkdevops.online
+SHIPPING_HOST: shipping.bkdevops.online
+PAYMENT_HOST: payment.bkdevops.online
+DISPATCH_HOST: dispatch.bkdevops.online

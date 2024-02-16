@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-prod.bkdevops.online  # submit your host
+REDIS_HOST: redis-prod.bkdevops.online 
+MYSQL_HOST: mysql-prod.bkdevops.online 
+RABBITMQ_HOST: rabbitmq-prod.bkdevops.online 
+CATALOGUE_HOST: catalogue-prod.bkdevops.online 
+USER_HOST: user-prod.bkdevops.online 
+CART_HOST: cart-prod.bkdevops.online 
+SHIPPING_HOST: shipping-prod.bkdevops.online 
+PAYMENT_HOST: payment-prod.bkdevops.online 
+DISPATCH_HOST: dispatch-prod.bkdevops.online
+NEXUS_URL: http://172.31.5.95:8081/repository
+group_id: "com/roboshop"
