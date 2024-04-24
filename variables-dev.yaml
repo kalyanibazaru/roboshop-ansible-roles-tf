@@ -8,5 +8,5 @@ CART_HOST: cart.app-dev.bkdevops.online
 SHIPPING_HOST: shipping.app-dev.bkdevops.online 
 PAYMENT_HOST: payment.app-dev.bkdevops.online 
 DISPATCH_HOST: dispatch.app-dev.bkdevops.online
-NEXUS_URL: http://172.31.29.245:8081/repository
+NEXUS_URL: http://54.167.21.137:8081/repository
 group_id: "com/roboshop"
